@@ -71,12 +71,24 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Top-Serveurs.net',
+                href: 'https://vote.top-serveurs.net/minecraft/uworld',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/uworldmc/uworld',
+                label: 'ServeursMinecraft.org',
+                href: 'https://www.serveursminecraft.org/serveur/5550/',
+              },
+              {
+                label: 'LSM.org',
+                href: 'https://www.liste-serveurs-minecraft.org/serveur-minecraft/uworld-serveur-survie-crack-accepte/',
+              },
+              {
+                label: 'Liste-Serveurs.fr',
+                href: 'https://www.liste-serveurs.fr/server-u-world-survie-oneblock.350',
+              },
+              {
+                label: 'Serveur-Prive.net',
+                href: 'https://serveur-prive.net/minecraft/u-world-8693',
               },
             ],
           },
