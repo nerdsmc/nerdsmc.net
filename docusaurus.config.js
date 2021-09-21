@@ -59,28 +59,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         style: 'dark',
         links: [
           {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Wiki',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/uworld',
-              },
-              {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/uworld',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/uworld',
+                href: 'https://discordapp.com/invite/VJe8Hs5TT4',
               },
             ],
           },
