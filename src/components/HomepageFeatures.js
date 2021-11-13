@@ -5,7 +5,7 @@ import styles from './HomepageFeatures.module.css';
 const FeatureList = [
   {
     title: 'Easy to Use',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: 'https://cdn.sayrix.fr/sH8/javaw_E1Ff0xYovL.jpg',
     description: (
       <>
         Docusaurus was designed from the ground up to be easily installed and
