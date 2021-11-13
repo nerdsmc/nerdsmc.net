@@ -4,12 +4,10 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: '',
     Image: 'https://cdn.sayrix.fr/sH8/javaw_TZApCVnXbg.jpg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
       </>
     ),
   },
