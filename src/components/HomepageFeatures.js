@@ -5,7 +5,7 @@ import styles from './HomepageFeatures.module.css';
 const FeatureList = [
   {
     title: 'Easy to Use',
-    Svg: 'https://cdn.sayrix.fr/sH8/javaw_TZApCVnXbg.jpg',
+    Image: 'https://cdn.sayrix.fr/sH8/javaw_TZApCVnXbg.jpg',
     description: (
       <>
         Docusaurus was designed from the ground up to be easily installed and
@@ -39,7 +39,7 @@ function Feature({Svg, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <img src={styles.featureSvg} alt={title} />;
+        <img src={styles.featureImage} alt={title} />;
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
