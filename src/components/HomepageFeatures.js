@@ -4,7 +4,7 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: '',
+    title: 'Spawn de U\'World',
     Image: 'https://cdn.sayrix.fr/sH8/javaw_TZApCVnXbg.jpg',
     description: (
       <>
