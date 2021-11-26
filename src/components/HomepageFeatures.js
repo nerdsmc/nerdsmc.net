@@ -29,7 +29,7 @@ const FeatureList = [
   },
   {
     title: 'OneBlock 1.17',
-    Image: 'https://cdn.sayrix.fr/i/tZN9.gif',
+    Image: 'https://cdn.sayrix.fr/i/rW0Z.gif',
     description: (
       <>
       </>
