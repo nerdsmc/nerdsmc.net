@@ -5,15 +5,31 @@ import styles from './HomepageFeatures.module.css';
 const FeatureList = [
   {
     title: 'Spawn de U\'World',
-    Image: 'https://cdn.sayrix.fr/sH8/javaw_TZApCVnXbg.jpg',
+    Image: 'https://cdn.sayrix.fr/i/HKrD.png',
     description: (
       <>
       </>
     ),
   },
   {
-    title: 'Génération 1.18',
+    title: 'Survie • Génération 1.18',
     Image: 'https://cdn.sayrix.fr/sH8/javaw_SDVpFKFkr9.jpg',
+    description: (
+      <>
+      </>
+    ),
+  },
+  {
+    title: 'MissileWars',
+    Image: 'http://cdn.sayrix.fr/i/KKWD.png',
+    description: (
+      <>
+      </>
+    ),
+  },
+  {
+    title: 'OneBlock 1.17',
+    Image: 'https://cdn.sayrix.fr/i/tZN9.gif',
     description: (
       <>
       </>
