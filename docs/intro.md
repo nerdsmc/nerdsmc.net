@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Introduction
 
-U'World est un serveur minecraft **Survie** et **OneBlock** en **1.17.1**
+U'World est un serveur minecraft **MissileWars**, **Survie** et **OneBlock**
 
 ## Informations
 - **Ip**: uworldmc.fr
