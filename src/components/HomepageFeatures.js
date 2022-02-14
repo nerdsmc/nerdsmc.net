@@ -12,7 +12,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Survie • Génération 1.18',
+    title: 'Survie 1.18',
     Image: 'https://cdn.sayrix.fr/sH8/javaw_SDVpFKFkr9.jpg',
     description: (
       <>
@@ -28,7 +28,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'OneBlock 1.17',
+    title: 'OneBlock 1.18',
     Image: 'https://cdn.sayrix.fr/i/rW0Z.gif',
     description: (
       <>
