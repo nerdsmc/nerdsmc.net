@@ -20,7 +20,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
       /** @type {import('@docusaurus/preset-classic').Options} */
       {
         googleAnalytics: {
-          trackingID: 'G-CMVLT7TKJ4',
+          trackingID: 'UA-194379266-1',
           anonymizeIP: false,
         },
       },
