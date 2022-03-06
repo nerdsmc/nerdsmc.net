@@ -56,6 +56,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             position: 'left',
             label: 'Wiki',
           },
+          {
+            to: '/ranks',
+            label: 'Ranks',
+            position: 'left'
+          },
         ],
       },
       footer: {
