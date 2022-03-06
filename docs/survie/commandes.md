@@ -12,10 +12,9 @@
 - `/tpa <joueur>` - Envoyer une requête de téléportation vers un joueur spécifié.
 - `/ah`  - Ouvre le [**Market Place**](https://wiki.uworldmc.fr/survie/market-place)
 
-### Liste des commandes accessibles par les [VIP](https://wiki.uworldmc.fr/grades-payant/vip)
+### Liste des commandes accessibles par les [VIP](https://uworldmc.fr/ranks/)
 
 - `/feed` - Permet de se rassasier.
 - Accès au formatage de chat. [Voir codes de formatage](https://wiki.ess3.net/mc/).
 - `/ec` - Ouvre votre enderchest où que vous soyez.
 - `/back` - Vous téléporte a l'endroit de votre dernière teleportation (ex: je fait /spawn alors que j'était dans le nether si je fait /back je retourne au nether)
-- `/nick` - Permet de vous renommer
