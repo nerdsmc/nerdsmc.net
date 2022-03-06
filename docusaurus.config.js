@@ -18,13 +18,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
     [
       '@docusaurus/preset-classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
-      {
+      ({
         googleAnalytics: {
           trackingID: 'UA-194379266-1',
           anonymizeIP: false,
         },
-      },
-      ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
