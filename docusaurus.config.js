@@ -18,6 +18,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
     [
       '@docusaurus/preset-classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
+      {
+        googleAnalytics: {
+          trackingID: 'G-CMVLT7TKJ4',
+          anonymizeIP: false,
+        },
+      },
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
