@@ -6,10 +6,10 @@ import Link from '@docusaurus/Link';
 const FeatureList = [
   {
     title: 'Mini-VIP',
-    //Image: 'http://cdn.sayrix.fr/i/z--5.png',
+    Image: 'http://cdn.sayrix.fr/i/44Qj.png',
     description: (
       <>
-      Le Mini-VIP vous permet de bénéficier de 6 homes (à la place de 3) dans le serveur Survie et la permission d'écrire en couleur dans le tchat!
+      Le Mini-VIP vous permet de bénéficier de 6 homes (à la place de 3) dans le serveur Survie, la permission d'écrire en couleur dans le tchat et un serveur personnel avec 20 slots à la place de 10
       <br/><br/>
       <b>Prix: 2.99€</b>
       </>
@@ -18,10 +18,10 @@ const FeatureList = [
   },
   {
     title: 'VIP',
-    //Image: 'http://cdn.sayrix.fr/i/z--5.png',
+    Image: 'http://cdn.sayrix.fr/i/JpDB.png',
     description: (
       <>
-      Le VIP vous permet de bénéficier de 10 homes (à la place de 3) dans le serveur Survie, la permission d'écrire en couleur dans le tchat ainsi que l'accès a de commandes exclusives (veillez à lire dans le wiki des différents mini-jeux)
+      Le VIP vous permet de bénéficier de 10 homes (à la place de 3) dans le serveur Survie, la permission d'écrire en couleur dans le tchat, l'accès a des commandes exclusives (veillez à lire dans le wiki des différents mini-jeux) et un nombre de slot illimité, la possibilité de mettre des plugins et bien plus sur son serveur personnel!
       <br/><br/>
       <b>Prix: 14.99€</b>
       </>
