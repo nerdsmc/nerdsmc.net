@@ -39,14 +39,14 @@ function Feature({Image, title, description, btnURL}) {
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
         <p>{description}</p>
-      </div>
-      <div className={styles.buttons}>
+        <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to={btnURL}>
             Acheter
           </Link>
         </div>
+      </div>
     </div>
   );
 }
