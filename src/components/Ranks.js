@@ -54,8 +54,8 @@ function Feature({Image, title, description, btnURL}) {
 export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
-      <div className="container">
-        <div className="row">
+      <div className="container text--center">
+        <div className="row text--center">
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
           ))}
