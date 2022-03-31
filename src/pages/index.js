@@ -8,6 +8,15 @@ import HomepageFeatures from '../components/HomepageFeatures';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
+
+  copyToClipboard = (e) => {
+    this.textArea.select();
+    document.execCommand('copy');
+    // This is just personal preference.
+    // I prefer to not show the whole text area selected.
+    e.target.focus();
+    this.setState({ copySuccess: 'Copied!' });
+  };
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
@@ -19,6 +28,9 @@ function HomepageHeader() {
             to="/docs/intro">
             Wiki
           </Link>
+
+          <button className="button button--secondary button--lg" onClick={this.copyToClipboard}>Copy</button> 
+            {this.state.copySuccess}
         </div>
       </div>
     </header>
