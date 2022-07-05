@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
   title: 'U\'World',
-  tagline: 'U\'World est un serveur minecraft Survie et OneBlock de l\'1.8 à l\'1.18',
+  tagline: 'U\'World est un serveur minecraft Survie et OneBlock de l\'1.8 à l\'1.19',
   url: 'https://uworldmc.fr',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -109,7 +109,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             ],
           },
         ],
-        copyright: `U'World est un serveur minecraft Survie et OneBlock de l'1.8 à l'1.18`,
+        copyright: `U'World est un serveur minecraft Survie et OneBlock de l'1.8 à l'1.19`,
       },
       prism: {
         theme: lightCodeTheme,
