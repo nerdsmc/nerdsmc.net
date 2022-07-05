@@ -2,9 +2,9 @@
 
 ### Liste des commandes importantes accessibles par les joueurs
 
-- `/vote top` - Donne la liste des gens qui vote le plus sur le serveur
 - `/baltop` - Donne la liste des plus riches du serveur
 - `/shop` - Ouvre le shop automatique
+- `/trade <joueur>` - Permet de faire un échange avec un joueur
 - `/craft` - Ouvre une table de craft.
 - `/rtp` - Ouvre un menu pour se téléporter aléatoirement dans une zone de la map.
 - `/tpayes et /tpano` - Accepter ou refuser une requête.

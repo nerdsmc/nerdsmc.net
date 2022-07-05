@@ -4,26 +4,13 @@
 
 ### La base du claim
 
-Vous pouvez sélectionner la base de votre claim avec une pelle en Or. En faisant clic droit à deux endroit. Comme ci-dessous :
-
-![](https://i.imgur.com/qyrgBPh.png)
-
-Le premier Clic droit fait apparaître un bloc de diamant côté client (pas du vrai hein).
-
-![](https://i.imgur.com/T7z4XKt.png)
-
-Le deuxième clic droit activera le claim dans la sélection que vous avez faite.
-
-![](https://i.imgur.com/OdNuyNM.png)
-
-Si vous n'aimez pas la méthode au dessus ou que vous n'avez pas de quoi vous faire une pelle en or, vous pouvez créer un claim de 5x5 blocs autour de vous avec la commande `/claim`.
+Le système de claim fonctionne par **chunk**, un chunk est un carré de 16x16 block de la bedrock jusqu'à la couche maximale de minecraft. Pour voir les chunks vous pouvez faire F3+G.
+Pour faire votre premier chunk vous devez faire `/c claim`. Après avoir fait ça venez de claim votre premier chunk mais maintenant il faut lui dédier un *coffre de claim* qui sera le coeur de votre claim. Il vous permettra de l'alimenter en ressource, tel que du cuivre, du fer et bien plus. Pour créer votre coffre de claim vous devez craft un coffre en bois puis y mettre le craft du coffre de claim qui se trouve en faisant `/c recipe`.
 
 ### Agrandir le claim
 
-Pour agrandir le claim. Positionnez vous à l'intérieur de celui-ci et visez vers la direction dans laquelle vous voulez étendre votre claim. Ensuite écrivez la commande `/extendclaim <nb de blocs>`
-
-Ex: `/extendclaim 10`
+Pour agrandir le claim. Positionnez vous à l'intérieur de celui-ci et faites `/c claim` cela va claim le chunk entier dans le quel vous êtes présent. Pour voir votre claim vous pouvez faire `/c show`
 
 ### Autoriser la construction à un ami
 
-Placez vous dans le claim dans le quel vous voulez que votre ami puisse utiliser les coffres, construire etc et tapez la commande `/trust pseudo`
+Placez vous dans votre claim et faites `/c invite JOUEUR`, votre ami devra également faire `/c accept` afin de rejoindre votre claim.
