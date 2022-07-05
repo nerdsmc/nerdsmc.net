@@ -4,16 +4,8 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Spawn de U\'World',
-    Image: 'http://cdn.sayrix.fr/i/z--5.png',
-    description: (
-      <>
-      </>
-    ),
-  },
-  {
-    title: 'Survie 1.18',
-    Image: 'https://cdn.sayrix.fr/sH8/javaw_SDVpFKFkr9.jpg',
+    title: 'Survie 1.19',
+    Image: 'https://uworldmc.fr/img/survie.jpg',
     description: (
       <>
       </>
@@ -21,7 +13,7 @@ const FeatureList = [
   },
   {
     title: 'MissileWars',
-    Image: 'http://cdn.sayrix.fr/i/KKWD.png',
+    Image: 'https://uworldmc.fr/img/missilewars.png',
     description: (
       <>
       </>
@@ -29,7 +21,7 @@ const FeatureList = [
   },
   {
     title: 'OneBlock 1.18',
-    Image: 'https://cdn.sayrix.fr/i/rW0Z.gif',
+    Image: 'https://uworldmc.fr/img/oneblock.gif',
     description: (
       <>
       </>
