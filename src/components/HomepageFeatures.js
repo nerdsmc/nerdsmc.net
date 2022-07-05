@@ -20,7 +20,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'OneBlock 1.18',
+    title: 'OneBlock 1.19',
     Image: 'https://uworldmc.fr/img/oneblock.gif',
     description: (
       <>
