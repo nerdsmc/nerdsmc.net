@@ -45,7 +45,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         anonymizeIP: false,
       },
       gtag: {
-        trackingID: '194379266',
+        trackingID: '845063437',
         anonymizeIP: true,
       },
       colorMode: {
