@@ -14,17 +14,12 @@ function HomepageHeader() {
       <div className="container">
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
+        <p className='font-semibold text-4xl'>IP: <u className='underline'>uworldmc.fr</u></p>
+        <div className={styles.buttons + " justify-center"}>
           <Link
             className="button button--secondary button--lg"
             to="/wiki/intro">
             Wiki
-          </Link>
-
-          <Link
-            className="button button--lg"
-            to="/">
-            IP: uworldmc.fr
           </Link>
         </div>
       </div>

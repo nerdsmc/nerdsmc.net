@@ -6,38 +6,28 @@ const FeatureList = [
   {
     title: 'Survie 1.19',
     Image: 'https://uworldmc.fr/img/survie.jpg',
-    description: (
-      <>
-      </>
-    ),
+    alt: 'Serveur Minecraft Survie Cracké 1.19'
   },
   {
     title: 'MissileWars',
     Image: 'https://uworldmc.fr/img/missilewars.png',
-    description: (
-      <>
-      </>
-    ),
+    alt: 'Serveur Minecraft MissileWars Cracké'
   },
   {
     title: 'OneBlock 1.19',
     Image: 'https://uworldmc.fr/img/oneblock.gif',
-    description: (
-      <>
-      </>
-    ),
+    alt: 'Serveur Minecraft OneBlock Cracké 1.19'
   }
 ];
 
-function Feature({Image, title, description}) {
+function Feature({Image, title, alt}) {
   return (
-    <div className={clsx('col col--4')}>
+    <div className={clsx('mx-2')}>
       <div className="text--center">
-        <img src={Image} alt={title}/>
+        <img src={Image} alt={alt} className={styles.featuresimg}/>
       </div>
-      <div className="text--center padding-horiz--md">
+      <div className="text--center">
         <h3>{title}</h3>
-        <p>{description}</p>
       </div>
     </div>
   );
@@ -46,8 +36,8 @@ function Feature({Image, title, description}) {
 export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
-      <div className="container">
-        <div className="row">
+      <div className="container content-center">
+        <div className="row content-center justify-center">
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
           ))}
