@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
   title: 'U\'World',
-  tagline: 'U\'World est un serveur minecraft Survie et OneBlock de l\'1.8 à l\'1.19',
+  tagline: 'U\'World est un serveur minecraft cracké Survie, OneBlock, MissileWars, Practice et bien plus de l\'1.8 à l\'1.19',
   url: 'https://uworldmc.fr',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -20,15 +20,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
       /** @type {import('@docusaurus/preset-classic').Options} */
       {
         docs: {
+          path: 'wiki',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl: 'https://github.com/uworldmc/uworld/edit/main/',
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/uworldmc/uworld/edit/main/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -79,7 +74,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             items: [
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/VJe8Hs5TT4',
+                href: 'https://discordapp.com/invite/McZpnvzhrM',
               },
             ],
           },
@@ -109,7 +104,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             ],
           },
         ],
-        copyright: `U'World est un serveur minecraft Survie et OneBlock de l'1.8 à l'1.19`,
+        copyright: `U'World est un serveur minecraft cracké Survie, OneBlock, MissileWars, Practice et bien plus de l'1.8 à l'1.19`,
       },
       prism: {
         theme: lightCodeTheme,

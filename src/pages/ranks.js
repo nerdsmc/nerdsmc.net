@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <Layout
       title={``}
-      description="U'World est un serveur minecraft Survie et OneBlock de l'1.8 à l'1.19">
+      description="U'World est un serveur minecraft cracké Survie, OneBlock, MissileWars, Practice et bien plus de l'1.8 à l'1.19">
       <main>
         <HomepageFeatures />
       </main>
