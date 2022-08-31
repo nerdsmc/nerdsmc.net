@@ -17,6 +17,11 @@ const FeatureList = [
     title: 'OneBlock 1.19',
     Image: 'https://uworldmc.fr/img/oneblock.gif',
     alt: 'Serveur Minecraft OneBlock Cracké 1.19'
+  },
+  {
+    title: 'Parkour',
+    Image: 'https://uworldmc.fr/img/parkour.gif',
+    alt: 'Serveur Minecraft Parkour Cracké 1.19'
   }
 ];
 
