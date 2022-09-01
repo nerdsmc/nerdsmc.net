@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Introduction
 
-U'World est un serveur minecraft **MissileWars**, **Survie**, **OneBlock**, **Practice** et bien plus!
+U'World est un serveur minecraft **MissileWars**, **Survie**, **OneBlock**, **Parkour** et bien plus!
 
 ## Informations
 - **Ip**: `uworldmc.fr` ou `bedrock.uworldmc.fr` pour les joueurs bedrock
