@@ -10,9 +10,9 @@
 - `/tpayes et /tpano` - Accepter ou refuser une requête.
 - `/tpahere <joueur>` - Envoyer une requête de téléportation vers sois même à un joueur.
 - `/tpa <joueur>` - Envoyer une requête de téléportation vers un joueur spécifié.
-- `/ah`  - Ouvre le [**Market Place**](https://wiki.uworldmc.fr/survie/market-place)
+- `/ah`  - Ouvre le [**Market Place**](https://uworldmc.fr/wiki/survie/market-place)
 
-### Liste des commandes accessibles par les [VIP](https://uworldmc.fr/ranks/)
+### Liste des commandes accessibles par les [VIP](https://uworldmc.fr/ranks)
 
 - `/feed` - Permet de se rassasier.
 - Accès au formatage de chat. [Voir codes de formatage](https://wiki.ess3.net/mc/).

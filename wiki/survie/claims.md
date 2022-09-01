@@ -1,7 +1,5 @@
 # Claims
 
-**Les claims peuvent paraître compliqués, mais c'est tout simple! Voyons ça.**
-
 ### La base du claim
 
 Le système de claim fonctionne par **chunk**, un chunk est un carré de 16x16 block de la bedrock jusqu'à la couche maximale de minecraft. Pour voir les chunks vous pouvez faire F3+G.
