@@ -11,7 +11,7 @@ const FeatureList = [
       <>
       Le Mini-VIP vous permet de bénéficier de 
       <ul>
-        <li>La permission d'écrire en couleur dans le tchat (voir les codes de formatage sur https://wiki.ess3.net/mc/)</li>
+        <li>La permission d'écrire en couleur dans le tchat</li>
         <li>Un serveur personnel avec 20 places au lieu de 10</li>
         <li>6 homes (à la place de 3) dans le Survie</li>
       </ul>
@@ -28,7 +28,7 @@ const FeatureList = [
       <>
       Le VIP vous permet de bénéficier de
       <ul>
-        <li>La permission d'écrire en couleur dans le tchat (voir les codes de formatage sur https://wiki.ess3.net/mc/)</li>
+        <li>La permission d'écrire en couleur dans le tchat</li>
         <li>Un serveur personnel avec places illimité, la possibilité de mettre des plugins et bien plus</li>
         <li>l'accès a des commandes exclusives (veillez à lire dans le wiki des différents mini-jeux)</li>
       </ul>
