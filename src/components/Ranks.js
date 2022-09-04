@@ -30,7 +30,8 @@ const FeatureList = [
       <ul>
         <li>La permission d'écrire en couleur dans le tchat</li>
         <li>Un serveur personnel avec places illimité, la possibilité de mettre des plugins et bien plus</li>
-        <li>l'accès a des commandes exclusives (veillez à lire dans le wiki des différents mini-jeux)</li>
+        <li>10 homes (à la place de 3) dans le Survie</li>
+        <li>L'accès a des commandes exclusives (veillez à lire dans le wiki des différents mini-jeux)</li>
       </ul>
       <br/><br/>
       <b>Condition: Faire un don de minimum 14.99€</b>
