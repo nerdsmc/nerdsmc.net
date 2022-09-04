@@ -15,6 +15,5 @@
 ### Liste des commandes accessibles par les [VIP](https://uworldmc.fr/ranks)
 
 - `/feed` - Permet de se rassasier.
-- Accès au formatage de chat. [Voir codes de formatage](https://wiki.ess3.net/mc/).
 - `/ec` - Ouvre votre enderchest où que vous soyez.
 - `/back` - Vous téléporte a l'endroit de votre dernière teleportation (ex: je fait /spawn alors que j'était dans le nether si je fait /back je retourne au nether)
