@@ -9,7 +9,12 @@ const FeatureList = [
     Image: 'https://uworldmc.fr/img/mini.png',
     description: (
       <>
-      Le Mini-VIP vous permet de bénéficier de 6 homes (à la place de 3) dans le serveur Survie, la permission d'écrire en couleur dans le tchat et un serveur personnel avec 20 slots à la place de 10
+      Le Mini-VIP vous permet de bénéficier de 
+      <ul>
+        <li>La permission d'écrire en couleur dans le tchat (voir les codes de formatage sur https://wiki.ess3.net/mc/)</li>
+        <li>Un serveur personnel avec 20 places au lieu de 10</li>
+        <li>6 homes (à la place de 3) dans le Survie</li>
+      </ul>
       <br/><br/>
       <b>Condition: Faire un don de minimum 2.99€</b>
       </>
@@ -21,7 +26,12 @@ const FeatureList = [
     Image: 'https://uworldmc.fr/img/vip.png',
     description: (
       <>
-      Le VIP vous permet de bénéficier de 10 homes (à la place de 3) dans le serveur Survie, la permission d'écrire en couleur dans le tchat, l'accès a des commandes exclusives (veillez à lire dans le wiki des différents mini-jeux) et un nombre de slot illimité, la possibilité de mettre des plugins et bien plus sur son serveur personnel!
+      Le VIP vous permet de bénéficier de
+      <ul>
+        <li>La permission d'écrire en couleur dans le tchat (voir les codes de formatage sur https://wiki.ess3.net/mc/)</li>
+        <li>Un serveur personnel avec places illimité, la possibilité de mettre des plugins et bien plus</li>
+        <li>l'accès a des commandes exclusives (veillez à lire dans le wiki des différents mini-jeux)</li>
+      </ul>
       <br/><br/>
       <b>Condition: Faire un don de minimum 14.99€</b>
       </>
