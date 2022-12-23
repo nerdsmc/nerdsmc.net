@@ -14,6 +14,7 @@ const FeatureList = [
         <li>La permission d'écrire en couleur dans le tchat</li>
         <li>Un serveur personnel avec 20 places au lieu de 10</li>
         <li>6 homes (à la place de 3) dans le Survie</li>
+        <li>L'accès à WorldEdit dans le mode Créatif</li>
       </ul>
       <br/><br/>
       <b>Condition: Faire un don de minimum 2.99€</b>
@@ -31,6 +32,7 @@ const FeatureList = [
         <li>La permission d'écrire en couleur dans le tchat</li>
         <li>Un serveur personnel avec places illimité, la possibilité de mettre des plugins et bien plus</li>
         <li>10 homes (à la place de 3) dans le Survie</li>
+        <li>L'accès à WorldEdit dans le mode Créatif</li>
         <li>L'accès a des commandes exclusives (veillez à lire dans le wiki des différents mini-jeux)</li>
       </ul>
       <br/><br/>
@@ -62,7 +64,7 @@ function Feature({Image, title, description, btnURL}) {
   );
 }
 
-export default function HomepageFeatures() {
+export default function Ranks() {
   return (
     <section className={styles.features}>
       <div className="container content-center">

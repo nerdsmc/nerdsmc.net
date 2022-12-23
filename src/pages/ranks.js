@@ -4,7 +4,7 @@ import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
-import HomepageFeatures from '../components/Ranks';
+import Ranks from '../components/Ranks';
 
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
@@ -13,7 +13,7 @@ export default function Home() {
       title={``}
       description="U'World est un serveur minecraft cracké Survie, OneBlock, MissileWars, Practice et bien plus de l'1.8 à l'1.19">
       <main>
-        <HomepageFeatures />
+        <Ranks />
       </main>
     </Layout>
   );
