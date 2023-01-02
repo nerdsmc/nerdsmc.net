@@ -12,7 +12,7 @@ const FeatureList = [
       Le Mini-VIP vous permet de bénéficier de 
       <ul>
         <li>La permission d'écrire en couleur dans le tchat</li>
-        <li>Un serveur personnel avec 20 places au lieu de 10</li>
+        <li>Un serveur personnel avec 20 places au lieu de 5</li>
         <li>6 homes (à la place de 3) dans le Survie</li>
         <li>L'accès à WorldEdit dans le mode Créatif</li>
       </ul>
@@ -30,12 +30,12 @@ const FeatureList = [
       Le VIP vous permet de bénéficier de
       <ul>
         <li>La permission d'écrire en couleur dans le tchat</li>
-        <li>Un serveur personnel avec places illimité, la possibilité de mettre des plugins et bien plus</li>
+        <li>Un serveur personnel avec places illimité, et d'autres avantages</li>
         <li>10 homes (à la place de 3) dans le Survie</li>
         <li>L'accès à WorldEdit dans le mode Créatif</li>
+        <li>25% d'argent et d'xp en plus dans le OneBlock</li>
         <li>L'accès a des commandes exclusives (veillez à lire dans le wiki des différents mini-jeux)</li>
       </ul>
-      <br/><br/>
       <b>Condition: Faire un don de minimum 14.99€</b>
       </>
     ),
