@@ -13,5 +13,6 @@
 
 ### Liste des commandes accessibles par les [VIP](https://uworldmc.fr/ranks)
 
+- `/craft` - Ouvre une table de craft où que vous soyez.
 - `/ec` - Ouvre votre enderchest où que vous soyez.
 - `/back` - Vous téléporte a l'endroit de votre dernière teleportation (ex: je fait /spawn alors que j'était dans le nether si je fait /back je retourne au nether)
