@@ -10,6 +10,7 @@
 - `/tpayes et /tpano` - Accepter ou refuser une requête.
 - `/tpahere <joueur>` - Envoyer une requête de téléportation vers sois même à un joueur.
 - `/tpa <joueur>` - Envoyer une requête de téléportation vers un joueur spécifié.
+- `/xpb gui` - Vous permet d'acheter des multiplicateur d'xp
 - `/ah`  - Ouvre le [**Market Place**](https://uworldmc.fr/wiki/survie/market-place)
 
 ### Liste des commandes accessibles par les [VIP](https://uworldmc.fr/ranks)
