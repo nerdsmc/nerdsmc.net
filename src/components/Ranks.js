@@ -6,39 +6,39 @@ import Link from '@docusaurus/Link';
 const FeatureList = [
   {
     title: 'Mini-VIP',
-    Image: 'https://uworldmc.fr/img/mini.png',
+    Image: 'https://nerdsmc.net/img/mini.png',
     description: (
       <>
       <ul style={{display: 'inline-block', textAlign: 'left'}}>
-        <li>✅ La permission d'écrire en couleur dans le tchat</li>
-        <li>✅ Un serveur personnel avec 20 places au lieu de 5</li>
-        <li>✅ 6 homes (à la place de 3) dans le Survie et le OneBlock</li>
-        <li>✅ L'accès à WorldEdit dans le mode Créatif</li>
-				<li>❌ 25% d'argent et d'xp en plus dans le OneBlock</li>
-        <li>❌ L'accès a des commandes exclusives (veillez à lire dans le wiki des différents mini-jeux)</li>
+        <li>✅ The permission to write in color in the chat</li>
+        <li>✅ A personal server with 20 seats instead of 5</li>
+        <li>✅ 6 homes (instead of 3) in the Survival and OneBlock</li>
+        <li>✅ Access to WorldEdit in Creative Mode</li>
+				<li>❌ 25% more money and xp in the OneBlock</li>
+        <li>❌ Access to exclusive commands (be sure to read in the wiki of the different mini-games)</li>
       </ul>
-      <b>Condition: Faire un don de minimum 2.99€</b>
+      <b>Condition: Make a minimum donation of 2.99€</b>
       </>
     ),
-    btnURL: "https://discord.uworldmc.fr",
+    btnURL: "https://discord.gg/nerd",
   },
   {
     title: 'VIP',
-    Image: 'https://uworldmc.fr/img/vip.png',
+    Image: 'https://nerdsmc.net/img/vip.png',
     description: (
       <>
       <ul style={{display: 'inline-block',  textAlign: 'left'}}>
-        <li>✅ La permission d'écrire en couleur dans le tchat</li>
-        <li>✅ Un serveur personnel avec places illimité</li>
-        <li>✅ 10 homes (à la place de 3) dans le Survie et le OneBlock</li>
-        <li>✅ L'accès à WorldEdit dans le mode Créatif</li>
-        <li>✅ 25% d'argent et d'xp en plus dans le OneBlock</li>
-        <li>✅ L'accès a des commandes exclusives (veillez à lire dans le wiki des différents mini-jeux)</li>
+				<li>✅ The permission to write in color in the chat</li>
+        <li>✅ A personal server with 20 seats instead of 5</li>
+        <li>✅ 6 homes (instead of 3) in the Survival and OneBlock</li>
+        <li>✅ Access to WorldEdit in Creative Mode</li>
+				<li>✅ 25% more money and xp in the OneBlock</li>
+        <li>✅ Access to exclusive commands (be sure to read in the wiki of the different mini-games)</li>
       </ul>
-      <b>Condition: Faire un don de minimum 14.99€</b>
+      <b>Condition: Make a minimum donation of 14.99€</b>
       </>
     ),
-    btnURL: "https://discord.uworldmc.fr",
+    btnURL: "https://discord.gg/nerd",
   }
 ];
 
@@ -55,7 +55,7 @@ function Feature({Image, title, description, btnURL}) {
           <Link
             className="button button--secondary button--lg"
             to={btnURL}>
-            Faire un don
+            Make a donation
           </Link>
         </div>
       </div>
