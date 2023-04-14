@@ -1,6 +1,6 @@
-# Informations Diverse
+# Various Information
 
-### Voici quelques informations diverse sur NerdsMC Survie:
+### Here are some information about the survival server:
 
-1. Un coffre apparaît lors de votre mort où est stocké votre inventaire. Cependant ce coffre s'auto-détruit au bout de 30 minutes.
-2. Le serveur Survie redémarre automatiquement à 2h00 UTC+2
+1. A loot chest appears at the point of death of a player. This chest will auto destruct after 30 minutes.
+2. The server may reboot at any time.
