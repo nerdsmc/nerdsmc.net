@@ -1,11 +1,12 @@
-# Market Place & Economie du survie
+# Market Place & Server Economy
 
 ### Market Place
 
-La commande pour ouvrir le Market Place est `/ah`. Une fois ouvert cettre interface apparaîtra:
+The command to open the marketplace is `/ah`. Uppon execution this interface will appear:
 ![Serveur MissileWars Cracké Bedrock](https://i.imgur.com/kqpRels.png)
-La zone composée de vitres grises est la zone où se trouvent les objets mis en vente par les joueurs.
-Pour vendre un objet il faut executer la commande `/ah sell <prix>` en tenant l'objet dans votre main.
 
-### Economie du survie
+The zone with glass panes is where items are put on sold. To sell an item, use `/ah sell <price>` while holding the item in hand.
 
+### Server Economy
+
+Money is earned by killing mobs, mining and farming. You can use this money to trade with other players or to buy experience boosters.
