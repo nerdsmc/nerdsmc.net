@@ -1,14 +1,13 @@
 # PrivateBlocs
 
-Les PrivateBlocs servent à protéger un bloc en particulier tel qu'un coffre, un four, une porte, ect pour que les gens dans votre claims ne puissent pas fouiller dans vos affaires.
+The PrivateBlocs are used to protect a particular block like a chest, furnace, door et cetera to prevent people visiting your claim to use or steal stuff.
 
-Pour rendre un bloc privé il vous suffit de vous munir d'un panneau et d'écrire 
-
+To create a protected block, you need to place a sign on it by shift-clicking and write 
 ```
 [Protect]
-Pseudo 
-Pseudo2 (facultatif)
-Pseudo3 (facultatif)
+Nickname 
+Nickname2 (optional)
+Nickname3 (optional)
 ```
 
-Tips: si vous voulez protéger votre coffre rapidement vous pouvez simplement poser un panneau en visant le coffre sans shift click
+Tip: You can rapidly protect a block by clicking directly on it with a sign in hand, no need to write anything.
