@@ -1,4 +1,6 @@
 {
   "label": "Wiki - OneBlock",
-  "position": 3
+  "position": 3,
+	"collapsible": false,
+  "collapsed": false
 }

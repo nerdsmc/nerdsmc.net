@@ -10,14 +10,16 @@
 @tailwind components;
 @tailwind utilities;
 
+.bolded { font-weight: bold; }
+
 :root {
-  --ifm-color-primary: #faa307;
-  --ifm-color-primary-dark: #e99700;
-  --ifm-color-primary-darker: #f48c06;
-  --ifm-color-primary-darkest: #e85d04;
-  --ifm-color-primary-light: #ffaf1b;
-  --ifm-color-primary-lighter: #ffc251;
-  --ifm-color-primary-lightest: #e9bc68;
+  --ifm-color-primary: #ffd60a;
+  --ifm-color-primary-dark: #efc700;
+  --ifm-color-primary-darker: #e1bc00;
+  --ifm-color-primary-darkest: #ba9a00;
+  --ifm-color-primary-light: #ffda25;
+  --ifm-color-primary-lighter: #ffdd32;
+  --ifm-color-primary-lightest: #ffe35a;
   --ifm-code-font-size: 95%;
 }
 

@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <Layout
       title={``}
-      description="U'World est un serveur minecraft cracké Survie, OneBlock, MissileWars, Practice et bien plus de l'1.8 à l'1.19">
+      description="NerdsMC is a minecraft server open to crack version. There is Prop Hunt, MissileWars, Creative, Parkour, Spleef, Sumo and much more. The server is open from 1.8 to 1.19">
       <main>
         <Ranks />
       </main>

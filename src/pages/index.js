@@ -14,7 +14,7 @@ function HomepageHeader() {
       <div className="container">
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <p className='font-semibold text-4xl'>IP: <u className='underline'>uworldmc.fr</u></p>
+        <p className='font-semibold text-4xl'>IP: <u className='underline'>nerdsmc.net</u></p>
         <div className={styles.buttons + " justify-center"}>
           <Link
             className="button button--secondary button--lg"
@@ -32,7 +32,7 @@ export default function Home() {
   return (
     <Layout
       title={``}
-      description="U'World est un serveur minecraft cracké Survie, OneBlock, MissileWars, Practice et bien plus de l'1.8 à l'1.19">
+      description="NerdsMC is a minecraft server open to crack version. There is Prop Hunt, MissileWars, Creative, Parkour, Spleef, Sumo and much more. The server is open from 1.8 to 1.19">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

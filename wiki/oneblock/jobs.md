@@ -1,6 +1,6 @@
 # Jobs
 
-Les jobs dans le OneBlock de U'World sont très simple car vous avez tout les jobs.  
+Les jobs dans le OneBlock de NerdsMC sont très simple car vous avez tout les jobs.  
 Le moyen le plus simple de se faire de l'argent avec les Jobs sont de récolter de la nourriture avec des fermes à carrotes, pomme de terres, blé, ect.  
 Plus vous montez de level dans un jobs et plus vous gagnerez d'argent, mais ce gain est insignificatif. Le level max est 100.  
 

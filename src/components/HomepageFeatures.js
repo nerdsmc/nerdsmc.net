@@ -4,24 +4,24 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Survie 1.19',
+    title: 'Survival 1.19',
     Image: 'https://uworldmc.fr/img/survie.jpg',
-    alt: 'Serveur Minecraft Survie Cracké 1.19'
+    alt: 'Minecraft Server Survival Crack 1.19'
   },
   {
     title: 'MissileWars',
     Image: 'https://uworldmc.fr/img/missilewars.png',
-    alt: 'Serveur Minecraft MissileWars Cracké'
+    alt: 'Minecraft Server MissileWars Crack'
   },
   {
     title: 'OneBlock 1.19',
     Image: 'https://uworldmc.fr/img/oneblock.gif',
-    alt: 'Serveur Minecraft OneBlock Cracké 1.19'
+    alt: 'Minecraft Server OneBlock Crack 1.19'
   },
   {
     title: 'Parkour',
     Image: 'https://uworldmc.fr/img/parkour.gif',
-    alt: 'Serveur Minecraft Parkour Cracké 1.19'
+    alt: 'Minecraft Server Parkour Crack SMP'
   }
 ];
 

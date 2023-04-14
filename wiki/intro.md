@@ -2,12 +2,12 @@
 sidebar_position: 1
 ---
 
-# Introduction
+# Introduction 📄
 
-U'World est un serveur minecraft **MissileWars**, **Survie**, **OneBlock**, **Parkour** et bien plus!
+NerdsMC is a minecraft server open to crack version. There is **Prop Hunt**, **MissileWars**, **Creative**, **Parkour**, **Spleef**, **Sumo** and much more!
 
 ## Informations
-- **Ip**: `uworldmc.fr` ou `bedrock.uworldmc.fr` pour les joueurs bedrock
-- **Version**: 1.8 vers 1.19
-- **Crack**: Accepté
-- **Discord**: [discord.gg/McZpnvzhrM](https://discord.gg/McZpnvzhrM)
+- **Ip**: `nerdsmc.net` or `bedrock.nerdsmc.net` for bedrock players
+- **Version**: 1.8 to 1.19
+- **Crack**: Allowed
+- **Discord**: [discord.gg/nerd](https://discord.gg/nerd)

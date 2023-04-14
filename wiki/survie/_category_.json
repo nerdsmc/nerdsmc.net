@@ -1,4 +1,6 @@
 {
-  "label": "Wiki - Survie",
-  "position": 2
+  "label": "Wiki - Survival ⛏️",
+  "position": 2,
+	"collapsible": false,
+  "collapsed": false
 }
