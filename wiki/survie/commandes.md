@@ -1,19 +1,18 @@
 # Commandes
 
-### Liste des commandes importantes accessibles par les joueurs
+### List of important commands
 
-- `/baltop` - Donne la liste des plus riches du serveur
-- `/shop` - Ouvre le shop automatique
-- `/trade <joueur>` - Permet de faire un échange avec un joueur
-- `/craft` - Ouvre une table de craft.
-- `/rtp` - Ouvre un menu pour se téléporter aléatoirement dans une zone de la map.
-- `/tpayes et /tpano` - Accepter ou refuser une requête.
-- `/tpahere <joueur>` - Envoyer une requête de téléportation vers sois même à un joueur.
-- `/tpa <joueur>` - Envoyer une requête de téléportation vers un joueur spécifié.
-- `/xpb gui` - Vous permet d'acheter des multiplicateur d'xp
-- `/ah`  - Ouvre le [**Market Place**](https://nerdsmc.net/wiki/survie/market-place)
+- `/baltop` - Gives the leaderboard of the richest players
+- `/trade <player>` - Allows players to trade with eachother
+- `/craft` - Opens a crafting table
+- `/rtp` - Teleport at a random location within 5000x5000 blocks. WARNING: This command costs 1,000$
+- `/tpayes et /tpano` - Accept or Deny a teleportation request
+- `/tpahere <joueur>` - Send a teleport request to yourself to another player
+- `/tpa <joueur>` - Send a request to teleport to a player
+- `/xpb gui` - Allows you to buy experience boosters
+- `/ah`  - Opens the [**Market Place**](https://nerdsmc.net/wiki/survie/market-place)
 
-### Liste des commandes accessibles par les [VIP](https://nerdsmc.net/ranks)
+### List of [VIP](https://nerdsmc.net/ranks) Commands
 
-- `/ec` - Ouvre votre enderchest où que vous soyez.
-- `/back` - Vous téléporte a l'endroit de votre dernière teleportation (ex: je fait /spawn alors que j'était dans le nether si je fait /back je retourne au nether)
+- `/ec` - Opens your enderchest
+- `/back` - Allows you to return to your last location after teleporting somewhere or dying
