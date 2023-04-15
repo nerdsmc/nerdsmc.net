@@ -11,7 +11,7 @@ const FeatureList = [
       <>
       <ul style={{display: 'inline-block', textAlign: 'left'}}>
         <li>✅ The permission to write in color in the chat</li>
-        <li>✅ A personal server with 20 seats instead of 5</li>
+        <li>✅ A personal server with 20 slots instead of 5</li>
         <li>✅ 6 homes (instead of 3) in the Survival and OneBlock</li>
         <li>✅ Access to WorldEdit in Creative Mode</li>
 				<li>❌ 25% more money and xp in the OneBlock</li>
@@ -29,8 +29,8 @@ const FeatureList = [
       <>
       <ul style={{display: 'inline-block',  textAlign: 'left'}}>
 				<li>✅ The permission to write in color in the chat</li>
-        <li>✅ A personal server with 20 seats instead of 5</li>
-        <li>✅ 6 homes (instead of 3) in the Survival and OneBlock</li>
+        <li>✅ A personal server with unlimited slots instead of 5</li>
+        <li>✅ 9 homes (instead of 3) in the Survival and OneBlock</li>
         <li>✅ Access to WorldEdit in Creative Mode</li>
 				<li>✅ 25% more money and xp in the OneBlock</li>
         <li>✅ Access to exclusive commands (be sure to read in the wiki of the different mini-games)</li>
