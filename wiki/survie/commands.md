@@ -1,4 +1,4 @@
-# Commandes
+# Commands
 
 ### List of important commands
 
